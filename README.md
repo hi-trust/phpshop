@@ -1,6 +1,4 @@
 # phpshop
-Automatically exported from code.google.com/p/phpshop
-We recommend you take a look at VirtueMart which is based on phpShop and is actively developed. If you are interested in continuing the original code development please contact the group for developer access.
 
 What is phpShop?
 phpShop is a PHP-powered shopping cart application. It is released under the GNU General Public License.
