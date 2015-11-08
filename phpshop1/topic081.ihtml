@@ -246,4 +246,3 @@ $db->query($q);
 $db->next_record();
 
 ?>
-
